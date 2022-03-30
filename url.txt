@@ -1,0 +1,5 @@
+http://192.168.50.62:5050/ 云端
+http://192.168.50.62:6060/ 仓储
+http://192.168.50.41/ gitLab
+https://blog.csdn.net/zjun007/article/details/103686707 pgsql操作
+
