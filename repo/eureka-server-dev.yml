@@ -1,3 +1,8 @@
 spring:
   application:
     name: ConfigServer
+    
+eureka:
+  instance:
+    appname: eureka-server-master
+    hostname: localhost
