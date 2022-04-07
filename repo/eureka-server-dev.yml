@@ -11,3 +11,9 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
     
+data:
+  env: eureka-server-master
+  user:
+    username: eureka-server-master-dev
+    password: 1291029102
+    
