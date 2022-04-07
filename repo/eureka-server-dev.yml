@@ -1,8 +1,14 @@
 spring:
   application:
-    name: ConfigServer-master
+    name: eureka-server-master
     
 eureka:
   instance:
     appname: eureka-server-master
     hostname: localhost
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+    
