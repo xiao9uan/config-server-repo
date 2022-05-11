@@ -4,4 +4,4 @@ http://192.168.50.41/ gitLab
 https://blog.csdn.net/zjun007/article/details/103686707 pgsql操作
 https://www.wulihub.com.cn/gc/WeVPwG/index.html#id=ki4pdu&p=pda_%E9%A1%B5%E9%9D%A2&g=1 pda需求
 http://192.168.50.145:8080/#/home/systemConfig 云端前端
-
+http://192.168.50.62:8009/job/192.168.50.62/job/warehouse-client/configure jenkins
